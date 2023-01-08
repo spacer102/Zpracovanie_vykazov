@@ -1,0 +1,7 @@
+KOD_ZAMESTNANCA;MENO;PRIEZVISKO;POZICIA
+ZAM_001;Pavol;Novak;Programator
+ZAM_002;Karol;Bielik;IT Analytik
+ZAM_003;Peter;Borik;Ucetnik
+ZAM_004;David;Zeleny;Technik
+ZAM_005;Peter;Cierny;Programator
+ZAM_006;Matej;Hatala;Veduci timu

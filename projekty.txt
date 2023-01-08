@@ -1,0 +1,6 @@
+KOD_PROJEKTU;NAZOV_PROJEKTU;PRIORITA
+PRJ_001;Sprava vozoveho parku;3
+PRJ_002;Rezervacia zasadacich miestnosti;4
+PRJ_003;Elektrotechnika;3
+PRJ_004;Biznis;1
+PRJ_005;Management;4
