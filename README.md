@@ -1,2 +1,2 @@
 # Zpracovanie_vykazov
-# C# projekt pre spracovanie databazy odpracovanych hodin vo firme
+# C# projekt pre evidenciu a zapis odpracovanych hodin a udajov zamestnancov vo firme
